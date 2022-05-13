@@ -1,0 +1,16 @@
+.box{
+    padding: 10px 10px;
+    background-color: rgb(236, 236, 236);
+    border-radius: 10px;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1,p,h5,a{
+    font-family: 'Poppins', sans-serif;
+}
+.box h5{
+    font-size: 18px;
+}
+.jumbotron{
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
